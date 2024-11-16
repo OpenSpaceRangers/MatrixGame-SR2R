@@ -1,0 +1,15 @@
+begin history ===============================================
+void __cdecl MatrixGameInit(struct HINSTANCE__ *,struct HWND__ *,wchar_t *,struct SRobotsSettings *,wchar_t *,wchar_t *,wchar_t *,wchar_t *):208
+void __cdecl MatrixGameInit(struct HINSTANCE__ *,struct HWND__ *,wchar_t *,struct SRobotsSettings *,wchar_t *,wchar_t *,wchar_t *,wchar_t *):217
+void __thiscall Base::CBlockPar::LoadFromTextFile(const wchar_t *,int):1119
+end
+begin history ===============================================
+void __cdecl MatrixGameInit(struct HINSTANCE__ *,struct HWND__ *,wchar_t *,struct SRobotsSettings *,wchar_t *,wchar_t *,wchar_t *,wchar_t *):208
+void __cdecl MatrixGameInit(struct HINSTANCE__ *,struct HWND__ *,wchar_t *,struct SRobotsSettings *,wchar_t *,wchar_t *,wchar_t *,wchar_t *):217
+void __thiscall Base::CBlockPar::LoadFromTextFile(const wchar_t *,int):1119
+end
+begin history ===============================================
+void __cdecl MatrixGameInit(struct HINSTANCE__ *,struct HWND__ *,wchar_t *,struct SRobotsSettings *,wchar_t *,wchar_t *,wchar_t *,wchar_t *):208
+void __cdecl MatrixGameInit(struct HINSTANCE__ *,struct HWND__ *,wchar_t *,struct SRobotsSettings *,wchar_t *,wchar_t *,wchar_t *,wchar_t *):217
+void __thiscall Base::CBlockPar::LoadFromTextFile(const wchar_t *,int):1119
+end
